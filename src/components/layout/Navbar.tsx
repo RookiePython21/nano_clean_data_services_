@@ -43,7 +43,7 @@ export function Navbar() {
             />
             <div className="leading-tight">
               <div className="text-white font-bold text-sm tracking-wide group-hover:text-cyan-300 transition-colors">
-                Controlled Environment
+                Nano Clean Data
               </div>
               <div className="text-cyan-400 text-xs font-semibold tracking-widest uppercase">
                 Services
