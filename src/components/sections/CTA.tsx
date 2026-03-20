@@ -42,7 +42,7 @@ export function CTA() {
           </h2>
 
           <p className="text-cyan-100 text-lg sm:text-xl mb-10 leading-relaxed max-w-2xl mx-auto">
-            Join hundreds of facilities that trust Controlled Environment Services to protect
+            Join hundreds of facilities that trust Nano Clean Data Services to protect
             their critical infrastructure.
           </p>
 
@@ -60,7 +60,7 @@ export function CTA() {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-2 border-white/40 text-white hover:bg-white/10 hover:border-white font-semibold px-8 backdrop-blur-sm w-full sm:w-auto transition-all"
+                className="bg-teal-600 hover:bg-teal-500 text-white border-transparent font-semibold px-8 w-full sm:w-auto transition-all hover:-translate-y-0.5"
               >
                 Call (270) 302-4064
               </Button>

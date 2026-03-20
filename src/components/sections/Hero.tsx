@@ -73,7 +73,7 @@ export function Hero() {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-slate-600 text-slate-200 hover:bg-slate-800/60 hover:border-cyan-500 hover:text-white font-semibold px-8 w-full sm:w-auto transition-all"
+                className="bg-teal-600 hover:bg-teal-500 text-white border-transparent font-semibold px-8 w-full sm:w-auto transition-all hover:-translate-y-0.5"
               >
                 View Our Services
               </Button>

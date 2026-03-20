@@ -38,7 +38,7 @@ export function Navbar() {
           <a href="/" className="flex items-center gap-3 shrink-0 group">
             <img
               src="/logo.png"
-              alt="Controlled Environment Services logo"
+              alt="Nano Clean Data Services logo"
               className="h-10 w-auto object-contain"
             />
             <div className="leading-tight">

@@ -18,7 +18,7 @@ app.use(express.json())
 
 // Health check
 app.get('/health', (_req, res) => {
-  res.json({ status: 'ok', service: 'Controlled Environment Services API' })
+  res.json({ status: 'ok', service: 'Nano Clean Data Services API' })
 })
 
 app.use('/api', paymentsRouter)

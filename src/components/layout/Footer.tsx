@@ -10,7 +10,7 @@ export function Footer() {
             <div className="flex items-center gap-3 mb-4">
               <img
                 src="/logo.png"
-                alt="Controlled Environment Services logo"
+                alt="Nano Clean Data Services logo"
                 className="h-9 w-auto object-contain"
               />
               <div>
@@ -94,7 +94,7 @@ export function Footer() {
 
         <div className="mt-12 pt-6 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-slate-600">
-            &copy; 2025 Controlled Environment Services. All rights reserved.
+            &copy; 2025 Nano Clean Data Services. All rights reserved.
           </p>
           <p className="text-xs text-slate-700">
             Serving data centers across the continental United States

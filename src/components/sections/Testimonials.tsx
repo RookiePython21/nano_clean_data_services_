@@ -5,7 +5,7 @@ import { useScrollAnimation } from '@/hooks/useScrollAnimation'
 const testimonials = [
   {
     quote:
-      'Controlled Environment Services transformed our server room. The difference in air quality alone was worth it.',
+      'Nano Clean Data Services transformed our server room. The difference in air quality alone was worth it.',
     name: 'James K.',
     role: 'IT Director',
     company: 'Southeast Regional Bank',

@@ -50,7 +50,7 @@ export function Benefits() {
             <span className="text-cyan-600 text-sm font-semibold">Why Choose Us</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-4 leading-tight">
-            Why Choose Controlled Environment Services
+            Why Choose Nano Clean Data Services
           </h2>
           <p className="text-lg text-slate-500 leading-relaxed">
             We bring enterprise-grade discipline to every job — protecting your equipment, your

@@ -26,7 +26,7 @@ export async function createCheckoutSession(req: Request, res: Response): Promis
             currency: 'usd',
             product_data: {
               name: `CES — ${priceName}`,
-              description: 'Controlled Environment Services — Professional Data Center Cleaning',
+              description: 'Nano Clean Data Services — Professional Data Center Cleaning',
             },
             unit_amount: priceAmount,
             ...(isRecurring && {
