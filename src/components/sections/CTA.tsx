@@ -56,13 +56,13 @@ export function CTA() {
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </a>
-            <a href="tel:+18005550199">
+            <a href="tel:+12703024064">
               <Button
                 size="lg"
                 variant="outline"
                 className="border-2 border-white/40 text-white hover:bg-white/10 hover:border-white font-semibold px-8 backdrop-blur-sm w-full sm:w-auto transition-all"
               >
-                Call (800) 555-0199
+                Call (270) 302-4064
               </Button>
             </a>
           </div>

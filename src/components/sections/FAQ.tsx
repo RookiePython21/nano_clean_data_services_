@@ -35,7 +35,7 @@ const faqs = [
   {
     question: 'What areas do you service?',
     answer:
-      'We currently serve data centers across the continental United States. Contact us at info@controlledenvservices.com or call (800) 555-0199 for availability in your specific region.',
+      'We currently serve data centers across the continental United States. Contact us at info@controlledenvservices.com or call (270) 302-4064 for availability in your specific region.',
   },
 ]
 
