@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booking Confirmed — Controlled Environment Services</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: 'Raleway', sans-serif;
+        background: #0f172a;
+        color: #f8fafc;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem;
+      }
+      .card {
+        background: #1e293b;
+        border: 1px solid #334155;
+        border-radius: 1.25rem;
+        padding: 3rem 2.5rem;
+        max-width: 480px;
+        width: 100%;
+        text-align: center;
+        box-shadow: 0 25px 50px rgba(0, 0, 0, 0.4);
+      }
+      .icon-wrap {
+        width: 72px;
+        height: 72px;
+        background: linear-gradient(135deg, #0891b2, #22d3ee);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1.5rem;
+        font-size: 2rem;
+      }
+      h1 {
+        font-size: 1.75rem;
+        font-weight: 800;
+        color: #f1f5f9;
+        margin-bottom: 0.75rem;
+        line-height: 1.2;
+      }
+      p {
+        color: #94a3b8;
+        font-size: 1rem;
+        line-height: 1.7;
+        margin-bottom: 2rem;
+      }
+      .highlight {
+        color: #22d3ee;
+        font-weight: 600;
+      }
+      .btn {
+        display: inline-block;
+        background: #0891b2;
+        color: #fff;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 0.95rem;
+        padding: 0.75rem 2rem;
+        border-radius: 0.5rem;
+        text-decoration: none;
+        transition: background 0.2s;
+      }
+      .btn:hover {
+        background: #0e7490;
+      }
+      .divider {
+        border: none;
+        border-top: 1px solid #334155;
+        margin: 2rem 0;
+      }
+      .contact {
+        font-size: 0.85rem;
+        color: #64748b;
+      }
+      .contact a {
+        color: #0891b2;
+        text-decoration: none;
+      }
+      .contact a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <div class="icon-wrap">✓</div>
+      <h1>Booking Confirmed!</h1>
+      <p>
+        Thank you for choosing <span class="highlight">Controlled Environment Services</span>.
+        We've received your request and a member of our team will reach out within
+        <strong style="color:#e2e8f0">1 business day</strong> to confirm your service details.
+      </p>
+      <a href="/" class="btn">Back to Home</a>
+      <hr class="divider" />
+      <p class="contact">
+        Questions? Email us at
+        <a href="mailto:info@controlledenvservices.com">info@controlledenvservices.com</a>
+        or call <a href="tel:+18005550199">(800) 555-0199</a>.
+      </p>
+    </div>
+  </body>
+</html>
